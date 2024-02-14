@@ -4,6 +4,7 @@ import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
 
+//Runnable use the run method
 public class ScheduledThreadPoolExample {
 
 	public static void main(String[] args) {
